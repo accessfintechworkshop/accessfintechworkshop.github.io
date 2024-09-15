@@ -240,7 +240,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #cca000;
+  color: #4CAF50;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11410,7 +11410,6 @@ header.masthead {
   text-align: center;
   color: #fff;
   /* Background header image from https://www.flickr.com/photos/pedrorocha/3627562740/sizes/o/ */
-  background-image: url("../assets/img/header_imgs/header.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
